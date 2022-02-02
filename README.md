@@ -1,0 +1,2 @@
+- Hi, I’m @RichardWeng001
+- I’m interested in python, c++ and houdini's vex
