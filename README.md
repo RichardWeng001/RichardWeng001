@@ -1,6 +1,7 @@
 - Hi, I’m Richard Weng.
 - I’m interested in python, c++ and Houdini's vex code.
-- Contact me by Richard_WYC_CN@outlook.com, or https://github.com/RichardWeng001.
+- Contact me by Richard_WYC_CN@outlook.com.
+- https://space.bilibili.com/484488855 is my **Bilibili** Account.
 
-Currently Working on a Houdini translation project...
+Currently Working on a Houdini Translation Project...
 
